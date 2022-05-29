@@ -10,7 +10,7 @@ import dash_bootstrap_components as dbc
 
 # -------------------------------------------------------------------------------------------------------------------------
 # read dataset
-data = pd.read_csv('../Data/data_complete_with_iso.csv')
+data = pd.read_csv('Data/data_complete_with_iso.csv')
 print(data.columns)
 
 # get the year of the date
