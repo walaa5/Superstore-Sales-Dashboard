@@ -14,3 +14,6 @@ https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset
 ## Dashboard 
 > https://user-images.githubusercontent.com/45610906/170852407-0e0a7b67-e5ee-41ce-9ee8-3c1148fc00d2.mp4
 
+## Contributors
+> * https://github.com/walaa5
+> * 
